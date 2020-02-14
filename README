@@ -1,6 +1,17 @@
-# alphabet
+alphabet
+========
 
-5 2 1 D    初 beginning, initial, primary
-6 B 6 5    步 step, pace; walk, stroll
-6 1 0 F    意 thought, idea, opinion; think
-8 C 6 1    象 elephant; ivory; figure, image
+0
+
+--------   x(4)    -------
+
+0 0 0 0            9 6 F 6    零 zero
+
+--------   hex     -------
+
+0 0 0 0            5 2 1 D    初 beginning, initial, primary
+0 0 0 0            6 B 6 5    步 step, pace; walk, stroll
+0 0 0 0            6 1 0 F    意 thought, idea, opinion; think
+0 0 0 0            8 C 6 1    象 elephant; ivory; figure, image
+
+-------  unicode   -------
