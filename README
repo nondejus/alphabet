@@ -21,17 +21,21 @@ alphabet
 0 0 0 0            8 A 9 E    語 language, words; saying, expression
 0 0 0 0            8 A 0 0    言 words, speech; speak, say
 
-國 nation, country, nation-state
-內 inside, interior; domestic 
-異 different, unusual, strange
-國 nation, country, nation-state
+0 0 0 0            5 7 0 B    國 nation, country, nation-state
+0 0 0 0            5 1 6 7    內 inside, interior; domestic 
+0 0 0 0            7 5 7 0    異 different, unusual, strange
+0 0 0 0            5 7 0 B    國 nation, country, nation-state
 
-情 feeling, sentiment, emotion
-調 transfer, move, change; tune  
-飛 fly; go quickly; dart; high
-機 machine; moment, chance
+0 0 0 0            6 0 C 5    情 feeling, sentiment, emotion
+0 0 0 0            8 A B F    調 transfer, move, change; tune  
+0 0 0 0            9 8 D B    飛 fly; go quickly; dart; high
+0 0 0 0            6 A 5 F    機 machine; moment, chance
   
-地 earth; soil, ground; region
-址 site, location, land for house
-基 foundation, base
-地 earth; soil, ground; region
+0 0 0 0            5 7 3 0    地 earth; soil, ground; region
+0 0 0 0            5 7 4 0    址 site, location, land for house
+0 0 0 0            5 7 F A    基 foundation, base
+0 0 0 0            5 7 3 0    地 earth; soil, ground; region
+
+--------------------------
+
+ Code | Art | Translation     lipsch.hth | studionondejus@gmail.com 
